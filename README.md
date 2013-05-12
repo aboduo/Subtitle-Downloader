@@ -5,7 +5,8 @@ Scans a folder for releases and gets avaliable subtitles from SubScene. Automati
 
 Usage
 -
-```python SubtitleDownloader.py <path> -l language
+```
+python SubtitleDownloader.py <path> -l language
 ```
 
 If run without path argument, the current directory will be scanned.
